@@ -1,0 +1,12 @@
+{
+  "name": "functional-angular",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "reveal-md content/deck.md -w"
+  },
+  "dependencies": {
+    "reveal-md": "^0.4.0"
+  }
+}
