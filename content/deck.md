@@ -11,24 +11,11 @@ revealOptions:
 
 ---
 
-## How to write an enterprise Angular app without losing your mind
-
----
-
-## How to make Angular suck less
-
----
-
-## Bring less Class to your JavaScript
-
----
-
 ### Goals 
 
 - Write more maintainable Angular code
 - Insulate yourself from your dependencies
 - Write more pure functions
-- Be happier 😆
 
 ---
 
